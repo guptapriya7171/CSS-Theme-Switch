@@ -1,8 +1,8 @@
 # CSS-Theme-Switch
 
-<b>Features</b>
-## A Customize interface with theme changing options as Light, Dark & Solarize.
-## A Color changing logo on hover.
+<h4><b>Features</b></h4>
+### A Customize interface with theme changing options as Light, Dark & Solarize.
+### A Color changing logo on hover.
  
 
 ![Capture1](https://user-images.githubusercontent.com/96413187/217192894-fced7d21-2c19-42d3-917f-bd1ca12b7c3e.PNG)
